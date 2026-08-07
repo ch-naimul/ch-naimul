@@ -64,50 +64,73 @@ I enjoy transforming ideas into reproducible research, experimenting with modern
 
 ---
 
-##🎓 Research Experience
-🧠 Undergraduate Thesis
+## 🎓 Research Experience
 
-Architectural Complexity vs. Performance in Brain Tumor MRI Classification A Systematic Ablation Study with Quantitative Explainability Evaluation
+### 🧠 Undergraduate Thesis
+
+**Architectural Complexity vs. Performance in Brain Tumor MRI Classification**
+*A Systematic Ablation Study with Quantitative Explainability Evaluation*
 
 🏛 Metropolitan University, Sylhet · 📅 Sep 2025 – Mar 2026
 
-🔬 Ablation study of five progressively complex deep learning architectures
-🧠 Explainable AI with Grad-CAM++ & Attention Rollout
-📊 Statistical significance via Wilcoxon Signed-Rank Test
-🎯 Test AUC: 0.9998
+- 🔬 Ablation study of five progressively complex deep learning architectures
+- 🧠 Explainable AI with Grad-CAM++ & Attention Rollout
+- 📊 Statistical significance via Wilcoxon Signed-Rank Test
+- 🎯 Test AUC: **0.9998**
 
-PyTorch timm Grad-CAM++ Transformers
+`PyTorch` `timm` `Grad-CAM++` `Transformers`
 
-<a href="https://github.com/ch-naimul/Undergrad_Thesis"> <img src="https://img.shields.io/badge/View_Repository-4F8CC9?style=for-the-badge&logo=github&logoColor=white"/> </a>
-🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top">
-🏭 Unsupervised Tile Surface Defect Detection
+<a href="https://github.com/ch-naimul/Undergrad_Thesis">
+<img src="https://img.shields.io/badge/View_Repository-4F8CC9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Industrial Anomaly Detection
+---
 
-Autoencoder-based defect localization
-Structural similarity reconstruction loss
-Leakage-free evaluation protocol
-F1 Score: 0.78
+## 🚀 Featured Projects
 
-Python PyTorch OpenCV Scikit-learn
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/ch-naimul/mvtec-tile-anomaly-detection"> <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/> </a> </td> <td width="50%" valign="top">
-📊 Socioeconomic and Lifestyle Factors on Resilience Prediction
+### 🏭 Unsupervised Tile Surface Defect Detection
 
-Health & Socioeconomic Analytics
+**Industrial Anomaly Detection**
 
-Gradient Boosting pipeline
-250K+ records
-Feature engineering
-SMOTE + GridSearchCV
-Accuracy 85% · AUC 0.944
+- Autoencoder-based defect localization
+- Structural similarity reconstruction loss
+- Leakage-free evaluation protocol
+- F1 Score: **0.78**
 
-Python Scikit-learn SMOTE
+`Python` `PyTorch` `OpenCV` `Scikit-learn`
 
-<a href="https://github.com/ch-naimul/Socioeconomic-and-Lifestyle-Factors-on-Resilience-Prediction"> <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/> </a> </td> </tr> </table>
+<a href="https://github.com/ch-naimul/mvtec-tile-anomaly-detection">
+<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
+</a>
 
-🔬 More coming soon — currently exploring Vision Transformers, foundation models, vision-language models, and efficient AI.
+</td>
+<td width="50%" valign="top">
+
+### 📊 Socioeconomic and Lifestyle Factors on Resilience Prediction
+
+**Health & Socioeconomic Analytics**
+
+- Gradient Boosting pipeline
+- 250K+ records
+- Feature engineering
+- SMOTE + GridSearchCV
+- Accuracy **85%** · AUC **0.944**
+
+`Python` `Scikit-learn` `SMOTE`
+
+<a href="https://github.com/ch-naimul/Socioeconomic-and-Lifestyle-Factors-on-Resilience-Prediction">
+<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+> 🔬 **More coming soon** — currently exploring Vision Transformers, foundation models, vision-language models, and efficient AI.
 ---
 
 ## 🛠 Tech Stack
