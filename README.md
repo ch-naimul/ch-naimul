@@ -191,17 +191,6 @@ I enjoy transforming ideas into reproducible research, experimenting with modern
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ch-naimul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4F8CC9&icon_color=4F8CC9&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch-naimul&layout=compact&hide_border=true&bg_color=0D1117&title_color=4F8CC9&text_color=C9D1D9" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to collaborating on **computer vision**, **medical image analysis**, **explainable AI**, and **data science** — whether that's research, open source, or simply exchanging ideas. Feel free to reach out!
