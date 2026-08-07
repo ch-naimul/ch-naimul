@@ -4,34 +4,20 @@
 
 ### AI Research Enthusiast • Computer Vision • Deep Learning • Data Science
 
-<p align="center">
 Building intelligent vision systems that are <b>accurate</b>, <b>efficient</b>, and <b>trustworthy</b>.
-</p>
 
-</div>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=900&lines=Computer+Vision+Research;Deep+Learning+Enthusiast;Medical+Image+Analysis;Explainable+AI+(XAI);Visual+Anomaly+Detection;Trustworthy+AI;Vision+Transformers;Learning+Foundation+Models;Building+AI+for+Healthcare;Open+Source+Learner" alt="Typing SVG" />
-</p>
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=520&lines=Computer+Vision+Research;Deep+Learning+Enthusiast;Medical+Image+Analysis;Explainable+AI+(XAI);Visual+Anomaly+Detection;Vision+Transformers;Building+AI+for+Healthcare" alt="Typing SVG" />
 
-<a href="https://github.com/ch-naimul">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/md-naimul-chowdhury-7742452b2">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mdnaimulchy@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-<p align="center">
+<a href="https://github.com/ch-naimul"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/md-naimul-chowdhury-7742452b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mdnaimulchy@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=ch-naimul&label=Profile%20Views&color=4F8CC9&style=for-the-badge"/>
 
-</p>
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 I'm an undergraduate Computer Science student with a passion for building **intelligent, interpretable, and impactful AI systems**. My work combines **computer vision**, **deep learning**, and **data-driven decision making** to address real-world challenges in healthcare and beyond.
@@ -39,20 +25,22 @@ I'm an undergraduate Computer Science student with a passion for building **inte
 My current research explores explainable deep learning for medical image analysis, while my broader interests extend toward trustworthy AI, efficient neural networks, visual representation learning, and next-generation foundation models.
 
 I enjoy transforming ideas into reproducible research, experimenting with modern deep learning architectures, and contributing to projects that bridge academic research with practical applications.
+
+---
+
 ## 🔬 Research Interests
 
-- 👁️ Computer Vision
-- 🧠 Deep Learning
-- 🏥 Medical Image Computing
-- 🔍 Explainable & Trustworthy AI
-- ⚡ Efficient AI & Model Compression
-- 🤖 Foundation Models *(Learning)*
-- 🖼️ Vision-Language Models *(Learning)*
-- 🧩 Representation Learning
-- 🌐 Multimodal AI
-- 🚨 Visual Anomaly Detection
-- 📊 Data Science & Predictive Analytics
-- ❤️ AI for Healthcare
+| Core Focus | Exploring |
+| :--- | :--- |
+| 👁️ Computer Vision | 🤖 Foundation Models |
+| 🧠 Deep Learning | 🖼️ Vision-Language Models |
+| 🏥 Medical Image Computing | 🌐 Multimodal AI |
+| 🔍 Explainable & Trustworthy AI | 🧩 Representation Learning |
+| 🚨 Visual Anomaly Detection | ⚡ Efficient AI & Model Compression |
+| 📊 Data Science & Predictive Analytics | ❤️ AI for Healthcare |
+
+---
+
 ## 🎯 Current Focus
 
 ```text
@@ -72,12 +60,15 @@ I enjoy transforming ideas into reproducible research, experimenting with modern
 └── Building trustworthy AI systems that are
     accurate, interpretable, and deployable
     for real-world applications.
+```
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 Brain Tumor MRI Classification
 
@@ -85,174 +76,139 @@ I enjoy transforming ideas into reproducible research, experimenting with modern
 
 - 🔬 Comparative study of five deep learning architectures
 - 🧠 Explainable AI with Grad-CAM++ & Attention Rollout
-- 📊 Statistical significance analysis using Wilcoxon Signed-Rank Test
+- 📊 Statistical significance via Wilcoxon Signed-Rank Test
 - 🎯 Test AUC: **0.9998**
 
-**Tech Stack**
+`PyTorch` `OpenCV` `timm` `Grad-CAM++` `Transformers`
 
-`PyTorch` `OpenCV` `timm`
-`Grad-CAM++` `Transformers`
-
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/ch-naimul/REPO-NAME">
 <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
 </a>
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏭 Ceramic Tile Defect Detection
 
 **Unsupervised Industrial Anomaly Detection**
 
-- Autoencoder-based defect localization
-- Structural similarity reconstruction loss
-- Leakage-free evaluation protocol
-- F1 Score: **0.78**
+- 🔍 Autoencoder-based defect localization
+- 🧮 Structural similarity reconstruction loss
+- ✅ Leakage-free evaluation protocol
+- 🎯 F1 Score: **0.78**
 
-**Tech Stack**
+`PyTorch` `OpenCV` `Scikit-Learn`
 
-`PyTorch`
-`OpenCV`
-`Scikit-Learn`
-
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/ch-naimul/REPO-NAME">
 <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
 </a>
 
 </td>
-
 </tr>
-
 <tr>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Resilience Prediction
 
-**Machine Learning for Health & Socioeconomic Analytics**
+**ML for Health & Socioeconomic Analytics**
 
-- Gradient Boosting Pipeline
-- 250K+ records
-- Feature Engineering
-- SMOTE + GridSearchCV
+- 🌲 Gradient Boosting pipeline
+- 🗂️ 250K+ records
+- 🛠️ Feature engineering
+- ⚙️ SMOTE + GridSearchCV
+- 🎯 Accuracy **85%** · AUC **0.944**
 
-**Performance**
+`Scikit-Learn` `Pandas` `NumPy`
 
-Accuracy **85%**
-
-AUC **0.944**
-
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/ch-naimul/REPO-NAME">
 <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
 </a>
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔬 More Research Coming...
 
-Currently exploring
+**Work in progress**
 
 - Vision Transformers
 - Foundation Models
 - Vision-Language Models
 - Efficient AI
 
+<br/>
+
+<img src="https://img.shields.io/badge/Status-In_Progress-lightgrey?style=for-the-badge"/>
+
 </td>
-
 </tr>
-
 </table>
+
+---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+**Languages**
 
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
-![CPP](https://skillicons.dev/icons?i=cpp)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
 
----
+**AI / Machine Learning**
 
-### 🤖 AI • Machine Learning
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 
-<p>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![timm](https://img.shields.io/badge/timm-4F8CC9?style=flat-square)
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+**Development**
 
-</p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql" />
 
-**Libraries**
+**Tools**
 
-- OpenCV
-- Hugging Face Transformers
-- timm
-- NumPy
-- Pandas
-- Scikit-Learn
+<img src="https://skillicons.dev/icons?i=git,github,vscode,latex" />
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 ---
-
-### 🌐 Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb"/>
-
----
-
-### ⚙️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-- Jupyter Notebook
-- Google Colab
-- SQL
-- LaTeX
 
 ## 🎓 Education
 
 **B.Sc. in Computer Science & Engineering**
+🏛 Metropolitan University, Sylhet · 🎓 CGPA **3.88 / 4.00**
 
-🏛 Metropolitan University, Sylhet
+<details>
+<summary><b>Relevant Coursework</b></summary>
 
-🎓 CGPA **3.88 / 4.00**
+<br/>
 
-Relevant Coursework
+`Machine Learning` `Artificial Intelligence` `Computer Graphics` `Image Processing`
+`Bioinformatics` `Statistics` `Linear Algebra` `Data Structures` `Algorithms`
 
-- Machine Learning
-- Artificial Intelligence
-- Computer Graphics
-- Image Processing
-- Bioinformatics
-- Statistics
-- Linear Algebra
-- Data Structures
-- Algorithms
+</details>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ch-naimul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4F8CC9&icon_color=4F8CC9&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch-naimul&layout=compact&hide_border=true&bg_color=0D1117&title_color=4F8CC9&text_color=C9D1D9" />
+
+</div>
+
+---
 
 ## 🤝 Let's Connect
 
-I'm always interested in collaborating on projects related to
+I'm always open to collaborating on **computer vision**, **medical image analysis**, **explainable AI**, and **data science** — whether that's research, open source, or simply exchanging ideas. Feel free to reach out!
 
-- Computer Vision
-- Deep Learning
-- Medical Image Analysis
-- Explainable AI
-- AI for Healthcare
-- Data Science
+<div align="center">
 
-Whether it's research, open source, or simply exchanging ideas, feel free to reach out!
+<a href="mailto:mdnaimulchy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/md-naimul-chowdhury-7742452b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<p align="center">
-
-<a href="mailto:mdnaimulchy@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/md-naimul-chowdhury-7742452b2">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+</div>
