@@ -64,7 +64,7 @@ I enjoy transforming ideas into reproducible research, experimenting with modern
 
 ---
 
-🎓 Research Experience
+##🎓 Research Experience
 🧠 Undergraduate Thesis
 
 Architectural Complexity vs. Performance in Brain Tumor MRI Classification A Systematic Ablation Study with Quantitative Explainability Evaluation
@@ -78,7 +78,7 @@ Architectural Complexity vs. Performance in Brain Tumor MRI Classification A Sys
 
 PyTorch timm Grad-CAM++ Transformers
 
-<a href="https://github.com/ch-naimul/REPO-NAME"> <img src="https://img.shields.io/badge/View_Repository-4F8CC9?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a href="https://github.com/ch-naimul/Undergrad_Thesis"> <img src="https://img.shields.io/badge/View_Repository-4F8CC9?style=for-the-badge&logo=github&logoColor=white"/> </a>
 🚀 Featured Projects
 <table> <tr> <td width="50%" valign="top">
 🏭 Unsupervised Tile Surface Defect Detection
@@ -92,7 +92,7 @@ F1 Score: 0.78
 
 Python PyTorch OpenCV Scikit-learn
 
-<a href="https://github.com/ch-naimul/REPO-NAME"> <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/> </a> </td> <td width="50%" valign="top">
+<a href="https://github.com/ch-naimul/mvtec-tile-anomaly-detection"> <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/> </a> </td> <td width="50%" valign="top">
 📊 Socioeconomic and Lifestyle Factors on Resilience Prediction
 
 Health & Socioeconomic Analytics
@@ -105,7 +105,7 @@ Accuracy 85% · AUC 0.944
 
 Python Scikit-learn SMOTE
 
-<a href="https://github.com/ch-naimul/REPO-NAME"> <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/> </a> </td> </tr> </table>
+<a href="https://github.com/ch-naimul/Socioeconomic-and-Lifestyle-Factors-on-Resilience-Prediction"> <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/> </a> </td> </tr> </table>
 
 🔬 More coming soon — currently exploring Vision Transformers, foundation models, vision-language models, and efficient AI.
 ---
