@@ -72,8 +72,187 @@ I enjoy transforming ideas into reproducible research, experimenting with modern
 └── Building trustworthy AI systems that are
     accurate, interpretable, and deployable
     for real-world applications.
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🧠 Brain Tumor MRI Classification
+
+**Architectural Complexity vs. Performance in Medical AI**
+
+- 🔬 Comparative study of five deep learning architectures
+- 🧠 Explainable AI with Grad-CAM++ & Attention Rollout
+- 📊 Statistical significance analysis using Wilcoxon Signed-Rank Test
+- 🎯 Test AUC: **0.9998**
+
+**Tech Stack**
+
+`PyTorch` `OpenCV` `timm`
+`Grad-CAM++` `Transformers`
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🏭 Ceramic Tile Defect Detection
+
+**Unsupervised Industrial Anomaly Detection**
+
+- Autoencoder-based defect localization
+- Structural similarity reconstruction loss
+- Leakage-free evaluation protocol
+- F1 Score: **0.78**
+
+**Tech Stack**
+
+`PyTorch`
+`OpenCV`
+`Scikit-Learn`
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📊 Resilience Prediction
+
+**Machine Learning for Health & Socioeconomic Analytics**
+
+- Gradient Boosting Pipeline
+- 250K+ records
+- Feature Engineering
+- SMOTE + GridSearchCV
+
+**Performance**
+
+Accuracy **85%**
+
+AUC **0.944**
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🔬 More Research Coming...
+
+Currently exploring
+
+- Vision Transformers
+- Foundation Models
+- Vision-Language Models
+- Efficient AI
+
+</td>
+
+</tr>
+
+</table>
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![CPP](https://skillicons.dev/icons?i=cpp)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+
 ---
 
+### 🤖 AI • Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+</p>
+
+**Libraries**
+
+- OpenCV
+- Hugging Face Transformers
+- timm
+- NumPy
+- Pandas
+- Scikit-Learn
+
+---
+
+### 🌐 Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb"/>
+
+---
+
+### ⚙️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+- Jupyter Notebook
+- Google Colab
+- SQL
+- LaTeX
+
+## 🎓 Education
+
+**B.Sc. in Computer Science & Engineering**
+
+🏛 Metropolitan University, Sylhet
+
+🎓 CGPA **3.88 / 4.00**
+
+Relevant Coursework
+
+- Machine Learning
+- Artificial Intelligence
+- Computer Graphics
+- Image Processing
+- Bioinformatics
+- Statistics
+- Linear Algebra
+- Data Structures
+- Algorithms
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on projects related to
+
+- Computer Vision
+- Deep Learning
+- Medical Image Analysis
+- Explainable AI
+- AI for Healthcare
+- Data Science
+
+Whether it's research, open source, or simply exchanging ideas, feel free to reach out!
+
 <p align="center">
-<i>Thanks for stopping by! Feel free to explore my repositories and connect with me.</i>
+
+<a href="mailto:mdnaimulchy@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/md-naimul-chowdhury-7742452b2">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
